@@ -1,1 +1,5 @@
-nihao  is simple & quick
+<<<<<<< HEAD
+nihao is quick and simple
+=======
+nihao is quick and simple
+>>>>>>> featurel
